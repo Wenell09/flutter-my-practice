@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140936641061",
+    "project_id": "flutter-crud-7dde4",
+    "storage_bucket": "flutter-crud-7dde4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140936641061:android:05a67990d929798d885dcc",
+        "android_client_info": {
+          "package_name": "com.nabil.latihan_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140936641061-6uh5u1cujsmbg1rfcifiu1spl3qflrum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07-_TP6c4oFSPHfMRI9hNi9ck26uk9PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140936641061-6uh5u1cujsmbg1rfcifiu1spl3qflrum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
